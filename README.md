@@ -1,0 +1,2 @@
+# CG-EducationalMaterials
+CG技術に関する教材を紹介するリポジトリです
