@@ -30,21 +30,21 @@
 
 ### 入門レベル
 
-- [実例で学ぶゲーム3D数学](https://www.oreilly.co.jp/books/9784873113777/ )    
+- [実例で学ぶゲーム3D数学 [書籍]](https://www.oreilly.co.jp/books/9784873113777/ )    
   リアルタイムグラフィックス(ゲームで使われている数学理論)の基礎が分かります。とりあえず買いましょう。
-- [ゲームプログラミングC++](https://www.shoeisha.co.jp/book/detail/9784798157610)    
+- [ゲームプログラミングC++ [書籍]](https://www.shoeisha.co.jp/book/detail/9784798157610)    
   「実際に手を動かしてゲームを作る」の入門書。とりあえず買(ry
 
 ### 中級レベル
 
-- [Game Programming Patterns 日本語版](https://book.impress.co.jp/books/1114101121)    
+- [Game Programming Patterns 日本語版 [書籍]](https://book.impress.co.jp/books/1114101121)    
   ゲームプログラミングの設計でよく使われる具体的なテクニック(デザインパターン)がわかります。
-- [ゲームプログラマのためのコーディング技術](https://gihyo.jp/book/2015/978-4-7741-7413-6)    
+- [ゲームプログラマのためのコーディング技術 [書籍]](https://gihyo.jp/book/2015/978-4-7741-7413-6)    
   「ゲームプログラミング版リーダブルコード」兼「ゲームプログラム設計のコツ」な本。
 
 ### 上級レベル
 
-- [ゲームプログラミングのためのリアルタイム衝突判定](https://gogo3d.borndigital.jp/products/detail.php?product_id=50)    
+- [ゲームプログラミングのためのリアルタイム衝突判定 [書籍]](https://gogo3d.borndigital.jp/products/detail.php?product_id=50)    
   3Dグラフィックスに次いでゲームに必要な知識、「モノどうしの衝突判定」が学べます。    
 
 
@@ -56,7 +56,7 @@
 
 ### 上級レベル
 
-- [DirectX 12の魔導書  3Dレンダリングの基礎からMMDモデルを踊らせるまで](https://www.shoeisha.co.jp/book/detail/9784798161938)    
+- [DirectX 12の魔導書  3Dレンダリングの基礎からMMDモデルを踊らせるまで [書籍]](https://www.shoeisha.co.jp/book/detail/9784798161938)    
   ゲームを作るのに必須な「3DグラフィックスAPI」の中で現代(2020年現在)で最も使われている**DirectX12**を、手を動かして書いてみようという本。    
   3DグラフィックスAPIの日本語解説書籍は非常に少ないので、とても価値のある1冊です。
 
@@ -66,14 +66,14 @@ Unity, UE4などのゲームエンジンの使い方や、ゲームエンジン�
 
 ### 入門レベル
 
-- [Unityの教科書](https://www.sbcr.jp/product/4815606657/)    
+- [Unityの教科書 [書籍]](https://www.sbcr.jp/product/4815606657/)    
   現代でよく使われるゲームエンジン、**Unity**の入門書です。Unityなら、バージョンに合わせてコンスタントに内容更新してくれるこの入門書。
 
 ### 中級レベル
 
 ### 上級レベル
 
-- [ゲームエンジン・アーキテクチャ 第2版](https://www.sbcr.jp/product/4797377484/ )    
+- [ゲームエンジン・アーキテクチャ 第2版 [書籍]](https://www.sbcr.jp/product/4797377484/ )    
   これを読んでもゲームエンジンが書けるようになるわけではないですが、Unityなどの巨大なシステムの裏側を理解するのに最適な網羅的解説が覗けます。    
   第3版の日本語版が現在出版作業中です。翻訳は完了していて、[そのうち発売日もわかりそう](https://twitter.com/minahito/status/1285077663250477057)とのことなので、発売を待ちましょう。    
 
@@ -84,14 +84,14 @@ Unity, UE4などのゲームエンジンの使い方や、ゲームエンジン�
 
 ### 入門レベル
 
-- [C#プログラマーのための デバッグの基本＆応用テクニック](https://gihyo.jp/book/2016/978-4-7741-8467-8)     
+- [C#プログラマーのための デバッグの基本＆応用テクニック [書籍]](https://gihyo.jp/book/2016/978-4-7741-8467-8)     
   「デバッグ作業のやり方」を教えてくれる本。C#に限らず応用できることが書いてあります。
-- [リーダブルコード](https://www.oreilly.co.jp/books/9784873115658/)    
+- [リーダブルコード [書籍]](https://www.oreilly.co.jp/books/9784873115658/)    
   分野関係なく「綺麗なコードを書くために読もう！」と随所で言われる名著。
 
 ### 中級レベル
 
-- [C++のためのAPIデザイン](https://www.sbcr.jp/product/4797369151/)    
+- [C++のためのAPIデザイン [書籍]](https://www.sbcr.jp/product/4797369151/)    
   小規模以上のシステムをC++で書くために必要な「プログラム設計」の考え方を教えてくれる良書。    
   C++言語に限らず応用できる知識が詰まっています。
 
@@ -107,18 +107,18 @@ C++言語の仕様を理解し、より良いC++プログラムを書くため�
 
 ### 中級レベル
 
-- [Effective C++](https://www.oreilly.co.jp/books/9784873117362/)     
+- [Effective C++ [書籍]](https://www.oreilly.co.jp/books/9784873117362/)     
   レガシーなC++から抜け出し、モダンでより良い書き方を学ぶための書籍。
 
-- [More Effective C++](https://honto.jp/netstore/pd-book_26091554.html)
+- [More Effective C++ [書籍]](https://honto.jp/netstore/pd-book_26091554.html)
 
   ↑と似た別の本です。併せて読みましょう。
 
 ### 上級レベル
 
-- [Optimized C++](https://www.oreilly.co.jp/books/9784873117928/)    
+- [Optimized C++ [書籍]](https://www.oreilly.co.jp/books/9784873117928/)    
   名前の通り、C++コードの最適化をするためのテクニックが学べる本です。
-- [C++ テンプレートテクニック](https://www.sbcr.jp/product/4797376685/)    
+- [C++ テンプレートテクニック [書籍]](https://www.sbcr.jp/product/4797376685/)    
   C++言語のジェネリクス機能を利用したメタプログラミングやコンパイル時の型に関するテクニックが学べます。  
   
 
@@ -130,20 +130,20 @@ C++言語の仕様を理解し、より良いC++プログラムを書くため�
 
 ### 中級レベル
 
-- [週末レイトレーシング](https://tatsu-zine.com/books/ray-tracing-part1)    
+- [週末レイトレーシング [書籍]](https://tatsu-zine.com/books/ray-tracing-part1)    
   物理ベースレンダリングの基礎を手を動かしながら学べる本。[英語版](https://raytracing.github.io/books/RayTracingInOneWeekend.html)はweb上で無料公開されています。(注 : 翻訳本の出版後に英語版が改訂されたため、一部内容が異なるようです)    
   [Ray Tracing: The Next Week](https://raytracing.github.io/books/RayTracingTheNextWeek.html) と [Ray Tracing: The Rest of Your Life](http://www.realtimerendering.com/raytracing/Ray%20Tracing_%20the%20Rest%20of%20Your%20Life.pdf)という続編もあります。
-- [コンピュータグラフィックス | CG-ARTS](https://www.cgarts.or.jp/book/cg_engineer/index.html)    
+- [コンピュータグラフィックス|CG-ARTS [書籍]](https://www.cgarts.or.jp/book/cg_engineer/index.html)    
   CGで一般的に使われている手法を古典的なものから網羅的に解説。「あの手法ってどんな感じのことするやつだっけ～」などという時に辞書のように使うと便利です。
-- [ディジタル画像処理 第2版 | CG-ARTS](https://www.cgarts.or.jp/book/img_engineer/index.html)    
+- [ディジタル画像処理 第2版|CG-ARTS [書籍]](https://www.cgarts.or.jp/book/img_engineer/index.html)    
   上の書籍の画像処理版。
 
 ### 上級レベル
 
-- <u>GPU Gems 日本語版</u> & [GPU Gems 2 日本語版](https://gogo3d.borndigital.jp/products/detail.php?product_id=49) & [GPU Gems 3 日本語版](https://gogo3d.borndigital.jp/products/detail.php?product_id=41) **[未読]**    
+- <u>GPU Gems 日本語版 [書籍]</u> & [GPU Gems 2 日本語版 [書籍]](https://gogo3d.borndigital.jp/products/detail.php?product_id=49) & [GPU Gems 3 日本語版 [書籍]](https://gogo3d.borndigital.jp/products/detail.php?product_id=41) **[未読]**    
   シェーダ含む、GPUでのあらゆるリアルタイムグラフィックス計算の術が記されたバイブル的名著。   
   1～3の続き物ですが、日本語版は1が絶版で、他2つも販売価格が高く手に取りにくいです。大学図書館に置いてあったら手を出してみるくらいの気持ちでよいでしょう。    
   3編すべて[英語版が無料公開](https://developer.nvidia.com/gpugems/gpugems/contributors)されています。
 
-- [リアルタイムレンダリング 第4版](https://www.borndigital.co.jp/book/15291.html)   
+- [リアルタイムレンダリング 第4版 [書籍]](https://www.borndigital.co.jp/book/15291.html)   
   現代で実際に用いられているリアルタイムレンダリングのテクニックを網羅的に解説した本。これ一冊で最近のゲーム業界の技術すら追うことができます。ただ、翻訳の質があまりよくないのが玉に瑕。
