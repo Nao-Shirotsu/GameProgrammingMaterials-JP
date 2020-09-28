@@ -133,8 +133,8 @@ C++言語の仕様を理解し、より良いC++プログラムを書くため�
 ### 中級
 
 - [週末レイトレーシング [書籍]](https://tatsu-zine.com/books/ray-tracing-part1)    
-  物理ベースレンダリングの基礎を手を動かしながら学べる本。[英語版](https://raytracing.github.io/books/RayTracingInOneWeekend.html)はweb上で無料公開されています。(注 : 翻訳本の出版後に英語版が改訂されたため、一部内容が異なるようです)    
-  [Ray Tracing: The Next Week](https://raytracing.github.io/books/RayTracingTheNextWeek.html) と [Ray Tracing: The Rest of Your Life](http://www.realtimerendering.com/raytracing/Ray%20Tracing_%20the%20Rest%20of%20Your%20Life.pdf)という続編もあります。
+  物理ベースレンダリングの基礎を手を動かしながら学べる本。[英語版 [web]](https://raytracing.github.io/books/RayTracingInOneWeekend.html)はweb上で無料公開されています。(注 : 翻訳本の出版後に英語版が改訂されたため、一部内容が異なるようです)    
+  [Ray Tracing: The Next Week [web]](https://raytracing.github.io/books/RayTracingTheNextWeek.html) と [Ray Tracing: The Rest of Your Life [web]](http://www.realtimerendering.com/raytracing/Ray%20Tracing_%20the%20Rest%20of%20Your%20Life.pdf)という続編もあります。
 - [コンピュータグラフィックス|CG-ARTS [書籍]](https://www.cgarts.or.jp/book/cg_engineer/index.html)    
   CGで一般的に使われている手法を古典的なものから網羅的に解説。「あの手法ってどんな感じのことするやつだっけ～」などという時に辞書のように使うと便利です。
 - [ディジタル画像処理 第2版|CG-ARTS [書籍]](https://www.cgarts.or.jp/book/img_engineer/index.html)    
@@ -145,7 +145,7 @@ C++言語の仕様を理解し、より良いC++プログラムを書くため�
 - <u>GPU Gems 日本語版 [書籍]</u> & [GPU Gems 2 日本語版 [書籍]](https://gogo3d.borndigital.jp/products/detail.php?product_id=49) & [GPU Gems 3 日本語版 [書籍]](https://gogo3d.borndigital.jp/products/detail.php?product_id=41) **[未読]**    
   シェーダ含む、GPUでのあらゆるリアルタイムグラフィックス計算の術が記されたバイブル的名著。   
   1～3の続き物ですが、日本語版は1が絶版で、他2つも販売価格が高く手に取りにくいです。大学図書館に置いてあったら手を出してみるくらいの気持ちでよいでしょう。    
-  3編すべて[英語版が無料公開](https://developer.nvidia.com/gpugems/gpugems/contributors)されています。
+  3編すべて[英語版 [web]](https://developer.nvidia.com/gpugems/gpugems/contributors)が無料公開されています。
 
 - [リアルタイムレンダリング 第4版 [書籍]](https://www.borndigital.co.jp/book/15291.html)   
   現代で実際に用いられているリアルタイムレンダリングのテクニックを網羅的に解説した本。これ一冊で最近のゲーム業界の技術すら追うことができます。ただ、翻訳の質があまりよくないのが玉に瑕。
